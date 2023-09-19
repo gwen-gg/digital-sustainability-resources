@@ -16,6 +16,9 @@ A curated list of digital sustainability resources for product managers, softwar
 | <img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />       | Free                                               |
 | <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> | Not free                                           |
 
+## Guidelines
+- [Web Sustainability Guidelines (WSG)](https://www.w3.org/community/sustyweb/2023/09/07/web-sustainability-guidelines/)
+
 ## Organizations
 
 ### USA
@@ -29,6 +32,8 @@ A curated list of digital sustainability resources for product managers, softwar
 
 ## Tools
 - [Business Model Sustainability Toolkit](https://sustainabilitytoolkit.digitalprinciples.org/) Guidance, tools, and case studies to help digital product/service owners and advisors in the aid sector design sustainable business models.
+- [Fruggr](https://www.fruggr.io/) EGS Impact Measuring tool
+
 
 ## Contributing
 
