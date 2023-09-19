@@ -17,7 +17,7 @@ A curated list of digital sustainability resources for product managers, softwar
 | <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> | Not free                                           |
 
 ## Guidelines
-- [Web Sustainability Guidelines (WSG)](https://www.w3.org/community/sustyweb/2023/09/07/web-sustainability-guidelines/)
+- [Web Sustainability Guidelines (WSG) / W3C working group](https://www.w3.org/community/sustyweb/2023/09/07/web-sustainability-guidelines/)
 
 ## Organizations
 
