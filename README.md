@@ -31,6 +31,7 @@ A curated list of digital sustainability resources for product managers, softwar
 ## Training
 
 ## Tools
+- [Boavitza Cloud carbon calculators](https://boavizta.org/en/blog/calculettes-carbone-clouds-providers) Understanding the results of cloud providers' carbon calculators
 - [Business Model Sustainability Toolkit](https://sustainabilitytoolkit.digitalprinciples.org/) Guidance, tools, and case studies to help digital product/service owners and advisors in the aid sector design sustainable business models.
 - [Fruggr](https://www.fruggr.io/) EGS Impact Measuring tool
 
